@@ -26,8 +26,9 @@ body {
   color: #404040;
   line-height: 1.7;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 12px;
   height: 100%;
+  text-align: justify;
 }
 
 .container {
@@ -45,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
-  text-align: center;
+  text-align: left;
 
   @include mobile {
     line-height: 1.4;
@@ -53,14 +54,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 24px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 18px;
 }
 
 @media (min-width: 769px){
@@ -1145,3 +1146,4 @@ Modules - reusable parts of our design
 //@import "highlights";
 @import "darcula";
 @import "svg-icons";
+@import "icons";

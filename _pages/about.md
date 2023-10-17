@@ -1,29 +1,42 @@
 ---
 layout: page
-title: About
-permalink: /about/
+permalink: /
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div align="left">
+        <span style="font-weight: 700; font-size: 30px;">Qi Chen</span><br/>
+        <span style="font-size: 15px;">Ph.D. Student @ Laval University</span><br/>
+        <span style="font-size: 15px;">Address: PLT-3908, G1V 0A6, QC, Canada</span><br/>
+        <span style="font-size: 15px;">Email: firstname[dot]lastname[dot]1[at]ulaval[dot]ca</span><br/>
+        <span style="font-size: 15px;">
+            <a href="{{ site.footer-links.googlescholar }}">[Google Scholar/</a>
+            <a href="{{ site.footer-links.researchgate }}"> ResearchGate/</a>
+            <a href="https://github.com/{{ site.footer-links.github }}" target="_blank">Github/</a>
+            <a src="images/profie/cv.pdf">CV]</a>
+        </span><br/>
+    </div>
+    <div><img src="images/profile/me2.jpeg" align="right" height="160px"/></div>
+</div>
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
-## Features
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## About me
+<!--- ![profile](images/profile/me.jpg) -->
+I'm currently a Ph.D. student at [Laval University](https://en.wikipedia.org/wiki/Universit%C3%A9_Laval), supervised by Prof. Mario Marchand. Prior to this, I worked as an algorithm engineer in NLP and ASR at [Baidu](https://ir.baidu.com/) and [ByteDance](https://www.bytedance.com/en/) successively. I obtained my master's at [Institut Polytechnique de Paris - Telecom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and earned my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
+
+
+My current research interests lean more on theoretical machine learning. Specifically, I am working on theoretical aspects of meta-learning and other deep transfer learning methods. I am also interested in PAC Bayes theory, information-theoretic learning, and reinforcement learning.
+
+
+
+## News
+
+- [09/23] One paper accepted to NeurIPS2023.
+- [09/23] Thesis initial depot completed.
+- [04/23] I passed my thesis proposal defence.
+- [01/23] One paper accepted to AISTATS2023.
+- [10/22] One paper accepted to NeurIPS2022.
+- [05/22] One paper accepted to ICML2022.
+
