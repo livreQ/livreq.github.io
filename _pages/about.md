@@ -24,7 +24,7 @@ permalink: /
 
 ## About me
 <!--- ![profile](images/profile/me.jpg) -->
-I'm currently a Ph.D. student at [Laval University](https://en.wikipedia.org/wiki/Universit%C3%A9_Laval), supervised by Prof. Mario Marchand. Prior to this, I worked as an algorithm engineer in NLP and ASR at [Baidu](https://ir.baidu.com/) and [ByteDance](https://www.bytedance.com/en/) successively. I obtained my master's at [Institut Polytechnique de Paris - Telecom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and earned my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
+I'm currently a Ph.D. student at [Laval University](https://en.wikipedia.org/wiki/Universit%C3%A9_Laval), supervised by Prof. Mario Marchand. Prior to this, I worked as an algorithm engineer in NLP and ASR at [Baidu](https://ir.baidu.com/) and [ByteDance](https://www.bytedance.com/en/) successively. I obtained my master's at [Institut Polytechnique de Paris - Telecom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and earned my bachelor's from [Chien-Shiung Wu Honors College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
 
 
 My current research interests lean more on theoretical machine learning. Specifically, I am working on theoretical aspects of meta-learning and other deep transfer learning methods. I am also interested in PAC Bayes theory, information-theoretic learning, and reinforcement learning.
