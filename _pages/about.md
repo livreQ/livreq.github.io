@@ -32,8 +32,8 @@ My current research interests lean more on theoretical machine learning. Specifi
 
 
 ## News
-<div class="row">
-  <div class="col-md-8" markdown="1">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div align='left' markdown="1">
   - [09/23] One paper was accepted to NeurIPS2023.
   - [09/23] The initial depot of the thesis was completed.
   - [04/23] I passed my thesis proposal defense.
@@ -41,8 +41,8 @@ My current research interests lean more on theoretical machine learning. Specifi
   - [10/22] One paper was accepted to NeurIPS2022.
   - [05/22] One paper was accepted to ICML2022.
   </div>
-  <div class="col-md-4" markdown="1">
-   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI&cl=ffffff&w=50"></script>
+  <div align='right'>
+   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI&cl=ffffff&w=a"></script>
   </div>
 </div>
 
