@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 ---
-# List of Publications
+## List of Publications
 
 Selected publications are <span style="text-decoration: underline">underlined.</span>
 
