@@ -32,7 +32,7 @@ My current research interests lean more on theoretical machine learning. Specifi
 
 
 ## News
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; justify-content: space-between; align-items: flex-start;">
   <div align='left' markdown="1">
   - [09/23] One paper was accepted to NeurIPS2023.
   - [09/23] The initial depot of the thesis was completed.
