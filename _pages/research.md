@@ -23,7 +23,7 @@ title:
     
  * Conference Reviewer
     - NeurIPS (2022 [Outstanding Reviewer 10%], 2023)
-    - ICML (2022, 2023)
+    - ICML (2022)
     - AISTATS (2020, 2023, 2024)
     - ICLR (2024)
 * Journal Reviewer
