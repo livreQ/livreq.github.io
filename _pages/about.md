@@ -33,10 +33,9 @@ My current research interests lean more on theoretical machine learning. Specifi
 
 ## News
 
-- [09/23] One paper accepted to NeurIPS2023.
-- [09/23] Thesis initial depot completed.
-- [04/23] I passed my thesis proposal defence.
-- [01/23] One paper accepted to AISTATS2023.
-- [10/22] One paper accepted to NeurIPS2022.
-- [05/22] One paper accepted to ICML2022.
-
+- [09/23] One paper was accepted to NeurIPS2023.
+- [09/23] The initial depot of the thesis was completed.
+- [04/23] I passed my thesis proposal defense.
+- [01/23] One paper was accepted to AISTATS2023.
+- [10/22] One paper was accepted to NeurIPS2022.
+- [05/22] One paper was accepted to ICML2022.
