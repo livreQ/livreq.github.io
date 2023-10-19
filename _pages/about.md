@@ -16,7 +16,7 @@ permalink: /
             <a href="http://livreq.github.io/images/profile/cv.pdf">CV]</a>
         </span><br/>
     </div>
-   <!--- <div><img src="images/profile/me2.jpeg" align="right" height="160px"/></div>-->
+   <div><img src="images/profile/me2.jpeg" align="right" height="160px"/></div>
 </div>
 
 
@@ -42,7 +42,7 @@ My current research interests lean more on theoretical machine learning. Specifi
   - [05/22] One paper was accepted to ICML2022.
   </div>
   <div align='right'>
-   <!---<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI&cl=ffffff&w=200"></script>-->
+   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI&cl=ffffff&w=200"></script>
   </div>
 </div>
 
