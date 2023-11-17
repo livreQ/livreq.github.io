@@ -16,7 +16,7 @@ permalink: /
 <!--             <a href="http://livreq.github.io/images/profile/cv.pdf">CV]</a> -->
         </span><br/>
     </div>
-   <div><img src="images/profile/me2.jpeg" align="right" height="160px"/></div>
+   <div><img src="images/profile/me.jpeg" align="right" height="160px"/></div>
 </div>
 
 
