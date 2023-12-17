@@ -24,7 +24,7 @@ permalink: /
 
 ## About me
 <!--- ![profile](images/profile/me.jpg) -->
-I'm currently a Ph.D. student at [Laval University](https://en.wikipedia.org/wiki/Universit%C3%A9_Laval), supervised by Prof. Mario Marchand. Prior to this, I worked as an R&D at [Baidu](https://ir.baidu.com/) and [ByteDance](https://www.bytedance.com/en/) successively. I obtained my master's at [Institut Polytechnique de Paris - Telecom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
+I'm currently a Ph.D. student at [Laval University](https://en.wikipedia.org/wiki/Universit%C3%A9_Laval), supervised by Prof. [Mario Marchand](https://scholar.google.ca/citations?user=M792u2sAAAAJ&hl=en). Prior to this, I worked as an R&D at [Baidu](https://ir.baidu.com/) and [ByteDance](https://www.bytedance.com/en/) successively. I obtained my master's at [Institut Polytechnique de Paris - Telecom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
 
 
 My current research interests lean more toward theoretical machine learning. Specifically, I am working on theoretical aspects of meta-learning and other deep transfer learning methods. I am also interested in PAC Bayes theory, information-theoretic learning, and reinforcement learning.
@@ -41,8 +41,8 @@ My current research interests lean more toward theoretical machine learning. Spe
   - [10/22] One paper was accepted to NeurIPS2022.
   - [05/22] One paper was accepted to ICML2022.
   </div>
-  <div align='right'>
+<!--   <div align='right'>
    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI&cl=ffffff&w=200"></script>
-  </div>
+  </div> -->
 </div>
 
