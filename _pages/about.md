@@ -25,7 +25,7 @@ permalink: /
 ## About me
 <!--- ![profile](images/profile/me.jpg) -->
 I'm currently a Postdoc fellow in [Robot Vision & Learning Lab](https://rvl.cs.toronto.edu/) at the University of Toronto, supervised by Prof. [Florian Shkurti](https://www.cs.toronto.edu/~florian/).
-I am fortunate to be chosen as a recipient of a Data Sciences Institute Postdoctoral Fellowship and will be co-supervised by Prof. Chris Maddison and Prof. Alán Aspuru-Guzik.
+I am fortunate to be chosen as a recipient of the Data Sciences Institute Postdoctoral Fellowship and will be co-supervised by Prof. Florian Shkurti, Prof. Chris Maddison, and Prof. Alán Aspuru-Guzik.
 I recently got my Ph.D. (dissertation with honor) from Laval University, supervised by Prof. [Mario Marchand](https://scholar.google.ca/citations?user=M792u2sAAAAJ&hl=en). Prior to this, I was a senior algorithm engineer at Baidu and Bytedance. I obtained my master of science in engineering (diplôme d'ingénière) at [Institut Polytechnique de Paris - Telecom Paris](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9com_Paris) and my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
 
 
