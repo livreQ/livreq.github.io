@@ -7,7 +7,7 @@ permalink: /
     <div align="left">
         <span style="font-weight: 700; font-size: 30px;">Qi Chen</span><br/>
         <span style="font-size: 15px;">Ph.D. in Computer Science</span><br/>
-        <span style="font-size: 15px;">Address: Myhal 512, 55 St George St, Toronto, ON, M5S 0C9, Canada</span><br/>
+        <span style="font-size: 15px;">Address: 55 St George St, Toronto, ON, Canada</span><br/>
         <span style="font-size: 15px;">Email: firstnamelastname[at]cs[dot]toronto[dot]edu</span><br/>
         <span style="font-size: 15px;">
             <a href="{{ site.footer-links.googlescholar }}">[Google Scholar/</a>
