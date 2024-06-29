@@ -45,8 +45,8 @@ My current research interests include learning theory, efficient generation, etc
   - [05/22] One paper was accepted to ICML2022.
   </div>
   <div align='right'>
-<!--    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI&cl=ffffff&w=200"></script> -->
-  <script type='text/javascript' id='clustrmaps' src='//clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI'></script>
+   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI&cl=ffffff&w=200"></script>
+<!--   <script type='text/javascript' id='clustrmaps' src='//clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI'></script> -->
   </div>
 </div>
 
