@@ -13,7 +13,7 @@ permalink: /
             <a href="{{ site.footer-links.googlescholar }}">[Google Scholar/</a>
             <a href="{{ site.footer-links.researchgate }}"> ResearchGate/</a>
             <a href="https://github.com/{{ site.footer-links.github }}" target="_blank">Github]</a>
-<!--             <a href="http://livreq.github.io/images/profile/cv.pdf">CV]</a> -->
+            <a href="http://livreq.github.io/images/profile/cv.pdf">CV]</a>
         </span><br/>
     </div>
    <div><img src="images/profile/me.jpeg" align="right" height="160px"/></div>
