@@ -12,7 +12,7 @@ permalink: /
         <span style="font-size: 15px;">
             <a href="{{ site.footer-links.googlescholar }}">[Google Scholar/</a>
             <a href="{{ site.footer-links.researchgate }}"> ResearchGate/</a>
-            <a href="https://github.com/{{ site.footer-links.github }}" target="_blank">Github]</a>
+            <a href="https://github.com/{{ site.footer-links.github }}" target="_blank">Github/</a>
             <a href="http://livreq.github.io/images/profile/cv.pdf">CV]</a>
         </span><br/>
     </div>
