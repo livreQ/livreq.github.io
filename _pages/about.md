@@ -30,6 +30,7 @@ I recently got my Ph.D. (dissertation with honor) from Laval University, supervi
 
 My current research interests include learning theory, efficient generation, etc... Previously, I have been working on theoretical aspects of meta-learning and other deep transfer learning methods. I am also interested in PAC Bayes theory, information-theoretic learning, and reinforcement learning.
 
+Feel free to email me for potential collaborations or discussions. 
 
 
 
