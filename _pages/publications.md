@@ -27,3 +27,5 @@ Selected publications are <span style="text-decoration: underline">underlined.</
   * Robustness
     - Qiuhao Zeng, Longkai Huang, **Qi Chen**, Charles Ling, and Wang Boyu. Towards understanding evolving patterns in sequential data. NeurIPS 2024.
 
+  * Generative Models
+    - Ligong Han, Song Wen, **Qi Chen**, Zhixing Zhang, Kunpeng Song, Mengwei Ren, et al. Proxedit: Improving tuning-free real image editing with proximal guidance. WACV 2024.
