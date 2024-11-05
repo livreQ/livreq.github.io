@@ -9,7 +9,7 @@ title: ""
 
 Selected publications are <span style="text-decoration: underline">underlined.</span>
 
-## Theory on Generalized Transfer Learning
+%## Theory on Generalized Transfer Learning
 
  * Meta Learning, Continual Learning
     - <span style="text-decoration: underline"> **Qi Chen**, Changjian Shui, Ligong Han, and Mario Marchand. On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm. NeurIPS 2023.[[Open Reivew](https://openreview.net/forum?id=DNHGKeOhLl)] [[Paper](https://openreview.net/pdf?id=DNHGKeOhLl)] [[Code](https://github.com/livreQ/DynamicCML)]</span>
@@ -19,7 +19,7 @@ Selected publications are <span style="text-decoration: underline">underlined.</
     - Changjian Shui, **Qi Chen**, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. A novel domain adaptation theory with Jensen–Shannon divergence. Knowledge-Based Systems, 2022.[[Paper](https://openreview.net/pdf?id=ilDfZG2BVDh)]
     - Changjian Shui, **Qi Chen**, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. Beyond H-divergence: Domain Adaptation Theory with Jensen-Shannon Divergence. 2020. [[paper](https://arxiv.org/pdf/2007.15567.pdf)]
 
-## Application in Fairness, Privacy, Uncertainty, and Robustness
+%## Application in Fairness, Privacy, Uncertainty, and Robustness
   * Fairness
     - <span style="text-decoration: underline">Gezheng Xu, **Qi Chen**, Charles Ling, Boyu Wang, Changjian Shui.Intersectional Unfairness Discovery. ICML 2024. </span>
     - <span style="text-decoration: underline">Changjian Shui, Gezheng Xu, **Qi Chen**, Jiaqi Li, Charles X. Ling, Tal Arbel, Boyu Wang, and Christian Gagné. On learning fairness and accuracy on multiple subgroups. NeurIPS 2022.[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/dc96134e169de5aea1ba1fc34dfb8419-Paper-Conference.pdf)]</span>
