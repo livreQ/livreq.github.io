@@ -21,7 +21,7 @@ Selected publications are <span style="text-decoration: underline">underlined.</
     - Changjian Shui, **Qi Chen**, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. Beyond H-divergence: Domain Adaptation Theory with Jensen-Shannon Divergence. 2020. [[paper](https://arxiv.org/pdf/2007.15567.pdf)]
 
 
-  * Fairness
+  * Algorithmic Fairness
     - <span style="text-decoration: underline">Gezheng Xu, **Qi Chen**, Charles Ling, Boyu Wang, Changjian Shui.Intersectional Unfairness Discovery. ICML 2024. </span>
     - <span style="text-decoration: underline">Changjian Shui, Gezheng Xu, **Qi Chen**, Jiaqi Li, Charles X. Ling, Tal Arbel, Boyu Wang, and Christian Gagné. On learning fairness and accuracy on multiple subgroups. NeurIPS 2022.[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/dc96134e169de5aea1ba1fc34dfb8419-Paper-Conference.pdf)]</span>
     - Changjian Shui, **Qi Chen**, Jiaqi Li, Boyu Wang, and Christian Gagné. Fair Representation Learning through Implicit Path Alignment. ICML 2022. [[Paper](https://arxiv.org/pdf/2205.13316.pdf)]
