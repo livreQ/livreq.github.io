@@ -10,7 +10,7 @@ title: ""
 Selected publications are <span style="text-decoration: underline">underlined.</span>
  
  * Thesis
-   - **Qi Chen**. [["Theoretical framework for prior knowledge transfer in deep learning", 2024.](https://corpus.ulaval.ca/server/api/core/bitstreams/701625ab-10af-4c2e-a306-cf4e280f7840/content)]
+   - **Qi Chen**. [["Theoretical framework for prior knowledge transfer in deep learning", 2024.](https://corpus.ulaval.ca/server/api/core/bitstreams/701625ab-10af-4c2e-a306-cf4e280f7840/content)][[slides](http://livreq.github.io/images/profile/PhD\ Thesis\ defense.pdf)]
 
  * Meta Learning, Continual Learning
     - <span style="text-decoration: underline"> **Qi Chen**, Changjian Shui, Ligong Han, and Mario Marchand. On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm. NeurIPS 2023.[[Open Reivew](https://openreview.net/forum?id=DNHGKeOhLl)] [[Paper](https://openreview.net/pdf?id=DNHGKeOhLl)] [[Code](https://github.com/livreQ/DynamicCML)]</span>
