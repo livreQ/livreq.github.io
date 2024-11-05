@@ -7,7 +7,7 @@ title: ""
 
 ### Research Interests
     
- * Transfer Learning
+ * Transfer Learning/Robustness
     - Meta-learning
     - Domain Adaptation
     - Domain Generalization
@@ -15,7 +15,7 @@ title: ""
     - Information-theoretic learning
     - PAC Bayes
 * Online/Continual Learning
-* Fairness
+* Algorithmic Fairness
 * Generative Models
 * etc...
 
