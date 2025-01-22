@@ -37,6 +37,7 @@ Feel free to email me for potential collaborations or discussions.
 ## News
 <div style="display:flex; flex-direction:row; justify-content: space-between; align-items: flex-start;">
   <div align='left' markdown="1">
+  - [01/25] One paper accepted to ICLR 2025, see you in Singapore. 
   - [05/24] One paper was accepted to ICML2024.
   - [01/24] I passed my thesis defense.
   - [09/23] One paper was accepted to NeurIPS2023.
