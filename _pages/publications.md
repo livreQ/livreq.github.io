@@ -9,7 +9,7 @@ title: ""
 
 Selected publications are <span style="text-decoration: underline">underlined.</span>
  
- * Thesis
+ * Thesis (Excellent, placed on Honor List)
    - **Qi Chen**. [["Theoretical framework for prior knowledge transfer in deep learning", 2024.](https://corpus.ulaval.ca/server/api/core/bitstreams/701625ab-10af-4c2e-a306-cf4e280f7840/content)][[slides](http://livreq.github.io/images/profile/PhD_Thesis_defense.pdf)]
 
  * Meta Learning, Continual Learning
