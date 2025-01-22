@@ -18,7 +18,6 @@ Selected publications are <span style="text-decoration: underline">underlined.</
 
  * Generative Models
     - <span style="text-decoration: underline">**Qi Chen**, Jerry Zhu, Florian Shkurti. Generalization in VAE and Diffusion Models: A Unified Information-Theoretic Analysis. ICLR 2025.</span>
-
     - Ligong Han, Song Wen, **Qi Chen**, Zhixing Zhang, Kunpeng Song, Mengwei Ren, et al. Proxedit: Improving tuning-free real image editing with proximal guidance. WACV 2024.
 
  * Domain Adaptation
