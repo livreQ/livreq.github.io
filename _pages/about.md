@@ -29,7 +29,7 @@ I am currently a postdoctoral fellow in the Data Science Institute and the [Robo
 I got my Ph.D. (dissertation with honor) from Laval University in Mar. 2024, where I was supervised by Prof. [Mario Marchand](https://scholar.google.ca/citations?user=M792u2sAAAAJ&hl=en). Prior to this, I was a senior algorithm engineer at Baidu and Bytedance. I obtained my master of science in engineering (diplôme d'ingénière) at [Institut Polytechnique de Paris - Telecom Paris](https://www.telecom-paris.fr/en/home) and my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
 
 
-I work on making AI more **reliable and efficient**. My research focuses on enhancing the generalization of modern deep learning models in *out-of-distribution settings and dynamically changing environments*, considering potential *fairness and bias issues*. I see this as a fundamental challenge in building responsible AI and advancing toward AGI.
+I work on making AI more **reliable and efficient**. My research focuses on enhancing the generalization of modern deep learning models in *out-of-distribution settings and dynamically changing environments*, considering potential *fairness and bias issues*. I see these as fundamental challenges in building responsible AI and advancing toward AGI.
 
 My PhD research tries to interpret basic human intelligence from the perspective of acquiring and exploiting prior knowledge. 
 
