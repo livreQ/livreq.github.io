@@ -31,7 +31,7 @@ I got my Ph.D. (dissertation with honor) from Laval University in Mar. 2024, whe
 
 I work on making AI more **reliable and efficient**. My research focuses on enhancing the generalization of modern deep learning models in *out-of-distribution settings and dynamically changing environments*, considering potential *fairness and bias issues*. I see these as fundamental challenges in building responsible AI and advancing toward AGI.
 
-My PhD research tries to interpret basic human intelligence from the perspective of acquiring and exploiting prior knowledge. I believe real intelligence hinges on efficient knowledge modulation—how we learn, store, retrieve, and compose knowledge—integrating high-level reasoning and verification processes.
+My PhD research tries to interpret basic human intelligence from the perspective of acquiring and exploiting prior knowledge. I believe real intelligence hinges on efficient knowledge modulation—how to effectively learn, store, retrieve, and compose knowledge—integrating high-level reasoning and verification processes.
 
 This perspective drives my broad interests in meta-learning, continual learning, generative models, algorithmic fairness, Bayesian optimization, and reinforcement learning. I explore these areas from both theoretical and algorithmic standpoints, with a strong desire to apply them to high-impact domains such as scientific discovery.
 
