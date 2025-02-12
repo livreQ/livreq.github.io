@@ -29,7 +29,13 @@ I am currently a postdoctoral fellow at the Data Science Institute and the [Robo
 I got my Ph.D. (dissertation with honor) from Laval University in Mar. 2024, where I was supervised by Prof. [Mario Marchand](https://scholar.google.ca/citations?user=M792u2sAAAAJ&hl=en). Prior to this, I was a senior algorithm engineer at Baidu and Bytedance. I obtained my master of science in engineering (diplôme d'ingénière) at [Institut Polytechnique de Paris - Telecom Paris](https://www.telecom-paris.fr/en/home) and my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
 
 
-My current research interests include learning theory, efficient generation, etc... Previously, I have been working on theoretical aspects of meta-learning and other deep transfer learning methods. I am also interested in PAC Bayes theory, information-theoretic learning, and reinforcement learning.
+I work on making AI more reliable and efficient. My research focuses on enhancing the generalization of modern deep learning models in out-of-distribution settings and dynamically changing environments, considering potential fairness and bias issues. I see this as a fundamental challenge in building responsible AI and advancing toward AGI.
+
+My PhD research tries to interpret basic human intelligence from the perspective of acquiring and exploiting prior knowledge. 
+
+I believe real intelligence hinges on efficient knowledge modulation—how we learn, store, retrieve, and generate new knowledge—integrating high-level reasoning and verification processes.
+
+This perspective drives my broad interests in meta-learning, continual learning, generative models, algorithmic fairness, Bayesian optimization, and reinforcement learning. I explore these areas from both theoretical and algorithmic standpoints, with a strong desire to apply them to high-impact domains such as scientific discovery.
 
 Feel free to email me for potential collaborations or discussions. 
 
