@@ -31,7 +31,7 @@ I got my Ph.D. (dissertation with honor) from Laval University in Mar. 2024, whe
 
 ## Research Goals
 
-I work on making AI more **Sustainable and Trustworthy**. My research focuses on enhancing the generalization of modern deep learning models in *out-of-distribution settings and dynamically changing environments*, considering potential *fairness and bias issues*. I see these as fundamental challenges in building responsible AI and advancing toward AGI.
+I work on making AI more **Trustworthy and Efficient**. My research focuses on enhancing the generalization of modern deep learning models in *out-of-distribution settings and dynamically changing environments*, considering potential *fairness and bias issues*. I see these as fundamental challenges in building responsible AI and advancing toward AGI.
 
 My PhD research tries to interpret basic human intelligence from the perspective of acquiring and exploiting prior knowledge. I believe real intelligence hinges on efficient knowledge modulation—how to effectively learn, store, retrieve, and compose knowledge—integrating high-level reasoning and verification processes.
 
