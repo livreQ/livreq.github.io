@@ -48,7 +48,7 @@ Feel free to email me for potential collaborations or discussions.
   - [05/24] One paper was accepted to ICML2024.
   - [01/24] I passed my thesis defense.
   - [09/23] One paper was accepted to NeurIPS2023.
-
+  </div>
   <div align='right'>
    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI&cl=ffffff&w=200"></script>
    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI'></script>
