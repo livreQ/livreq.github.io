@@ -17,7 +17,7 @@ Selected publications are <span style="text-decoration: underline">underlined.</
     - <span style="text-decoration: underline">**Qi Chen**, Changjian Shui, Mario Marchand. Generalization Bounds for Meta-Learning: An Information-Theoretic Analysis. NeurIPS 2021. <font color=red>(Spotlight, 3% of submissions)</font> [[Open Review](https://openreview.net/forum?id=9J2wV5E1Aq_)][[Paper](https://arxiv.org/pdf/2109.14595)] [[Code](https://github.com/livreQ/meta-sgld)] </span>
 
  * Generative Models
-    - <span style="text-decoration: underline">**Qi Chen**, Jerry Zhu, Florian Shkurti. Generalization in VAE and Diffusion Models: A Unified Information-Theoretic Analysis. ICLR 2025.[[Open Review](https://openreview.net/forum?id=NGB6YNnO5o)] [[Paper](https://openreview.net/pdf?id=NGB6YNnO5o)] [[Code being organized]]</span>
+    - <span style="text-decoration: underline">**Qi Chen**, Jerry Zhu, Florian Shkurti. Generalization in VAE and Diffusion Models: A Unified Information-Theoretic Analysis. ICLR 2025.[[Open Review](https://openreview.net/forum?id=NGB6YNnO5o)] [[Paper](https://openreview.net/pdf?id=NGB6YNnO5o)] [[Code](https://github.com/livreQ/InfoGenAnalysis)]</span>
     - Ligong Han, Song Wen, **Qi Chen**, Zhixing Zhang, Kunpeng Song, Mengwei Ren, et al. Proxedit: Improving tuning-free real image editing with proximal guidance. WACV 2024.
 
  * Domain Adaptation
