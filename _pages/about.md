@@ -26,7 +26,7 @@ permalink: /
 <!--- ![profile](images/profile/me.jpg) -->
 I am currently a postdoctoral fellow in the Data Science Institute and the [Robot Vision & Learning Lab](https://rvl.cs.toronto.edu/) at the University of Toronto, working with Prof. [Florian Shkurti](https://www.cs.toronto.edu/~florian/). Additionally, I serve as a Faculty Affiliate Researcher at the Vector Institute.
 
-I got my Ph.D. (dissertation with honor) from Laval University in Mar. 2024, where I was supervised by Prof. [Mario Marchand](https://www.researchgate.net/profile/Mario-Marchand?ev=brs_overview). Prior to this, I was a senior algorithm engineer at Baidu and Bytedance. I obtained my master of science in engineering (diplôme d'ingénière) at [Institut Polytechnique de Paris - Telecom Paris](https://www.telecom-paris.fr/en/home) and my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
+I got my Ph.D. (dissertation with honor) from Laval University in Mar. 2024, where I was supervised by Prof. [Mario Marchand](https://scholar.google.ca/citations?user=M792u2sAAAAJ&hl=en). Prior to this, I was a senior algorithm engineer at Baidu and Bytedance. I obtained my master of science in engineering (diplôme d'ingénière) at [Institut Polytechnique de Paris - Telecom Paris](https://www.telecom-paris.fr/en/home) and my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
 
 
 ## Research Goals
