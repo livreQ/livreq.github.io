@@ -21,7 +21,7 @@ Selected publications are <span style="text-decoration: underline">underlined.</
     - Ligong Han, Song Wen, **Qi Chen**, Zhixing Zhang, Kunpeng Song, Mengwei Ren, et al. Proxedit: Improving tuning-free real image editing with proximal guidance. WACV 2024.
 
  * Domain Adaptation
-    - <span style="text-decoration: underline"> Gezheng Xu, **Qi Chen**, QIUHAO Zeng, Charles Ling, Boyu Wang. Histogram-Guided Source-Free Domain Adaptive Regression (Under Submission). </span>
+    - <span style="text-decoration: underline"> Gezheng Xu, **Qi Chen**, Qiuhao Zeng, Charles Ling, Boyu Wang. Histogram-Guided Source-Free Domain Adaptive Regression (Under Submission). </span>
     - <span style="text-decoration: underline">**Qi Chen**, and Mario Marchand. Algorithm-Dependent Bounds for Representation Learning of Multi-Source Domain Adaptation. AISTATS 2023.[[Paper](https://proceedings.mlr.press/v206/chen23h/chen23h.pdf)] [[Code](https://github.com/livreQ/IMDA)]</span>
     - Changjian Shui, **Qi Chen**, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. A novel domain adaptation theory with Jensen–Shannon divergence. Knowledge-Based Systems, 2022.[[Paper](https://openreview.net/pdf?id=ilDfZG2BVDh)]
     - Changjian Shui, **Qi Chen**, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. Beyond H-divergence: Domain Adaptation Theory with Jensen-Shannon Divergence. 2020. [[paper](https://arxiv.org/pdf/2007.15567.pdf)]
