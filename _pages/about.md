@@ -41,7 +41,7 @@ Our lab focuses on fundamental challenges in machine learning and artificial int
 * Trustworthy AI: robustness, privacy, security, etc...
 * Transfer Learning in the Context of RL and Generative Models.
 
-Applicants should hold a relevant Master's degree in Computer Science, Statistics, Electrical Engineering, or related fields. Ideal candidates are curious, open-minded, and collaborative. Please upload the following documents to this [form](Degree certificates ) if you are interested. 
+Applicants should hold a relevant Master's degree in Computer Science, Statistics, Electrical Engineering, or related fields. Ideal candidates are curious, open-minded, and collaborative. Please upload the following documents to this [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdE-5rMAzPTBXCSUJrP7hCS0aPt7KkufBdVhhEZoajdDn6B6A/viewform?usp=dialog) if you are interested. 
 - CV
 - Publication list
 - Degree certificates and academic transcripts
