@@ -28,27 +28,6 @@ I am currently a PI at the ELLIS Institute Finland and an Assistant Professor in
 
 I got my Ph.D. (dissertation with honor) from Laval University in Mar. 2024, where I was supervised by Prof. [Mario Marchand](https://scholar.google.ca/citations?user=M792u2sAAAAJ&hl=en). Prior to this, I was a senior algorithm engineer at Baidu and Bytedance. I obtained my master of science in engineering (diplôme d'ingénière) at [Institut Polytechnique de Paris - Telecom Paris](https://www.telecom-paris.fr/en/home) and my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
 
-## Recruitements 
-I am actively seeking self-motivated candidates with strong mathematical backgrounds and programming skills to join the Basic Intelligence Lab (BIL) at Aalto University. We currently have multiple fully funded PhD and postdoctoral positions available (with 3000+ euros per month for phd students, 4000+ euros per month for postdocs). Competitive candidates can be nominated as ELLIS PhD/Postdoc or directly apply through **[ELLIS (European Laboratory for Learning and Intelligent Systems)](https://ellis.eu/news/ellis-phd-program-call-for-applications-2025)** program.
-
-Our lab focuses on fundamental challenges in machine learning and artificial intelligence. We aim to advance theories, algorithms, and applications of ML and AI. The successful candidate will engage in research within one or more of the following areas:
-* Next-generation Gen AI: 
-	* Controllable and test-time adaptive generative models.
-	* Reasoning for self-verification.
-	* Theory for compositionality, generation diversity and sampling efficiency.
-    * Applications in domains such as scientific discovery and robotics in collaboration with interdisciplinary partners.
-* Scientific Foundation Models with Human in the Loop.
-* Trustworthy AI: robustness, privacy, security, etc...
-* Transfer Learning in the Context of RL and Generative Models.
-
-Applicants should hold a relevant Master's degree in Computer Science, Statistics, Electrical Engineering, or related fields. Ideal candidates are curious, open-minded, and collaborative. Please upload the following documents to this [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdE-5rMAzPTBXCSUJrP7hCS0aPt7KkufBdVhhEZoajdDn6B6A/viewform?usp=dialog) if you are interested. 
-- CV
-- Publication list
-- Degree certificates and academic transcripts
-- Research statement (if applicable)
-- Contact details of at least two referees (or letters of recommendation, if applicable).
-
-
 
 ## Research Goals
 
