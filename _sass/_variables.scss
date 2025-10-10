@@ -25,3 +25,10 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
+.container {
+  margin: 0 auto;
+  max-width: 1000px; /* new wider width */
+  padding: 0 20px;   /* optional: give some side padding */
+  width: 100%;
+}
