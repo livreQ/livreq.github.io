@@ -6,7 +6,7 @@ permalink: /
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div align="left">
         <span style="font-weight: 700; font-size: 30px;">Qi Chen</span><br/>
-        <span style="font-size: 15px;">Ph.D. in Computer Scienc</span><br/>
+        <span style="font-size: 15px;">Ph.D. in Computer Science</span><br/>
         <!-- <span style="font-size: 15px;">Address: 55 St George St, Toronto, ON, Canada</span><br/> -->
         <span style="font-size: 15px;">Email: firstname[dot]lastname[dot]inf[at]aalto[dot]fi</span><br/>
         <span style="font-size: 15px;">
