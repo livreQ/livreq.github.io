@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /vacancies/
+permalink: /positions/
 title: ""
 ---
 <span></span>
 
-## Open Vacancies
+## Open Positions
 
 I am actively seeking self-motivated candidates with strong mathematical backgrounds and programming skills to join the Basic Intelligence Lab (BIL) at Aalto University. We currently have multiple fully funded PhD and postdoctoral positions available (with 3000+ euros per month for phd students, 4000+ euros per month for postdocs). Competitive candidates can be nominated as ELLIS PhD/Postdoc or directly apply through **[ELLIS (European Laboratory for Learning and Intelligent Systems)](https://ellis.eu/news/ellis-phd-program-call-for-applications-2025)** program.
 
