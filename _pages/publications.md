@@ -20,6 +20,9 @@ Selected publications are <span style="text-decoration: underline">underlined.</
     - <span style="text-decoration: underline">**Qi Chen**, Jerry Zhu, Florian Shkurti. Generalization in VAE and Diffusion Models: A Unified Information-Theoretic Analysis. ICLR 2025.[[Open Review](https://openreview.net/forum?id=NGB6YNnO5o)] [[Paper](https://openreview.net/pdf?id=NGB6YNnO5o)] [[Code](https://github.com/livreQ/InfoGenAnalysis)]</span>
     - Ligong Han, Song Wen, **Qi Chen**, Zhixing Zhang, Kunpeng Song, Mengwei Ren, et al. Proxedit: Improving tuning-free real image editing with proximal guidance. WACV 2024.
 
+ * Bayes Optimization, Scientific Foundation Model, Large Language Model
+    - <span style="text-decoration: underline"> **Qi Chen**, Fabio Ramos, Alan Aspuru-Guzik, Florian Shkurti.  Informing Acquisition Functions via Foundation Models for Molecular Discovery (Under Submission). </span>
+  
  * Domain Adaptation
     - <span style="text-decoration: underline"> Gezheng Xu, **Qi Chen**, Qiuhao Zeng, Charles Ling, Boyu Wang. Histogram-Guided Source-Free Domain Adaptive Regression (Under Submission). </span>
     - <span style="text-decoration: underline">**Qi Chen**, and Mario Marchand. Algorithm-Dependent Bounds for Representation Learning of Multi-Source Domain Adaptation. AISTATS 2023.[[Paper](https://proceedings.mlr.press/v206/chen23h/chen23h.pdf)] [[Code](https://github.com/livreQ/IMDA)]</span>
