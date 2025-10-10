@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /vacancies/
+title: ""
+---
+<span></span>
 
 ## Open Vacancies
 
