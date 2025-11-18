@@ -46,6 +46,7 @@ This perspective drives my broad interests in meta-learning, continual learning,
 ## News
 <div style="display:flex; flex-direction:row; justify-content: space-between; align-items: flex-start;">
   <div align='left' markdown="1">
+  - [11/25] Appointed as Action Editor of TMLR.
   - [01/25] One paper accepted to ICLR 2025, see you in Singapore. 
   - [05/24] One paper was accepted to ICML2024.
   - [01/24] I passed my thesis defense.
