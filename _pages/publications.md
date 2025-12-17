@@ -12,7 +12,7 @@ title: ""
 Selected publications are <span style="text-decoration: underline">underlined.</span>
 
 * Under Submission
-    - <span style="text-decoration: underline"> **Qi Chen**, Fabio Ramos, Alan Aspuru-Guzik, Florian Shkurti.  Informing Acquisition Functions via Foundation Models for Molecular Discovery, 2025. </span>
+    - <span style="text-decoration: underline"> **Qi Chen**, Fabio Ramos, Alan Aspuru-Guzik, Florian Shkurti.  [[Informing Acquisition Functions via Foundation Models for Molecular Discovery, 2025.](https://arxiv.org/pdf/2512.13935)] </span>
 
     - <span style="text-decoration: underline"> Gezheng Xu, **Qi Chen**, Qiuhao Zeng, Charles Ling, Boyu Wang. Histogram-Guided Source-Free Domain Adaptive Regression, 2025. </span>
     
