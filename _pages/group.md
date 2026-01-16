@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Group/
+permalink: /group/
 ---
 
 # People
