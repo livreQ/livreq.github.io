@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /group/
+title: ""
 ---
 
 <span></span>
