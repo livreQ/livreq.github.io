@@ -8,7 +8,7 @@ title: ""
 ## People
 
 ### Postdocs
-**We are hiring.**
+**We are hiring through [ELLIS](https://www.ellisinstitute.fi/postdoc-recruit-2026).**
 
 ### PhD Students
 [**Wenwen Hou (Will Start in March 2026)**](https://sites.google.com/view/wenwen-hou)
