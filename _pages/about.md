@@ -24,10 +24,9 @@ permalink: /
 
 ## About me
 <!--- ![profile](images/profile/me.jpg) -->
-Hi, welcome! I’m a PI at the [ELLIS Institute Finland](https://www.ellisinstitute.fi/) and a Tenure-track Assistant Professor in the Department of Computer Science at [Aalto University](https://research.aalto.fi/en/organisations/professorship-chen-qi). We have multiple fully funded PhD and postdoc positions open, feel free to check out our [vacancies](https://livreq.github.io/vacancies/).
+Hi, welcome! I’m currently a Principal Investigator at the [ELLIS Institute Finland](https://www.ellisinstitute.fi/) and a Tenure-track Assistant Professor in the Department of Computer Science at [Aalto University](https://research.aalto.fi/en/organisations/professorship-chen-qi). I am also a member of ELLIS.  <font color=red> I am actively seeking curious minds to work with. Please check out our </font> [open positions](https://livreq.github.io/positions/) and apply through [this application form](https://docs.google.com/forms/d/e/1FAIpQLSdE-5rMAzPTBXCSUJrP7hCS0aPt7KkufBdVhhEZoajdDn6B6A/viewform?usp=dialog). At the current stage, we do not have long-term funding available for visiting scholars or research assistants due to recruitment regulations. However, self-funded visitors or short-term visits are also welcome to apply through [the form](https://docs.google.com/forms/d/e/1FAIpQLSdE-5rMAzPTBXCSUJrP7hCS0aPt7KkufBdVhhEZoajdDn6B6A/viewform?usp=dialog). Due to the high volume of requests, I am unfortunately not able to reply to every email or contact all candidates individually. If you are not contacted, it simply means I did not find a strong-matched topic for us. Please do not take it personally, and I wish you the very best with your applications.
 
-
-Previously, I was a postdoctoral fellow in the Data Science Institute and the [Robot Vision & Learning Lab](https://rvl.cs.toronto.edu/) at the University of Toronto, working with Prof. [Florian Shkurti](https://www.cs.toronto.edu/~florian/). Additionally, I serve as a Faculty Affiliate Researcher at the Vector Institute. I got my Ph.D. (dissertation with honor) from Laval University in Mar. 2024, where I was supervised by Prof. [Mario Marchand](https://scholar.google.ca/citations?user=M792u2sAAAAJ&hl=en). Prior to this, I was a senior algorithm engineer at Baidu and Bytedance. I obtained my master of science in engineering (diplôme d'ingénière) at [Institut Polytechnique de Paris - Telecom Paris](https://www.telecom-paris.fr/en/home) and my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
+Before this, I was a postdoctoral fellow at the Data Science Institute (DSI) and [Robot Vision & Learning Lab](https://rvl.cs.toronto.edu/) at the University of Toronto, supported by the [DSI Postdoc Fellowship](https://datasciences.utoronto.ca/postdoctoral-fellows/) and advised by Prof. [Florian Shkurti](https://www.cs.toronto.edu/~florian/). Additionally, I serve as a Faculty Affiliate Researcher at the [Vector Institute](https://vectorinstitute.ai/). I got my Ph.D. (dissertation with honor) from Laval University in Mar. 2024, where I was supervised by Prof. [Mario Marchand](https://scholar.google.ca/citations?user=M792u2sAAAAJ&hl=en). Prior to this, I was a senior algorithm engineer at Baidu and Bytedance. I obtained my master of science in engineering (diplôme d'ingénière) at [Institut Polytechnique de Paris - Telecom Paris](https://www.telecom-paris.fr/en/home) and my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
 
 
 ## Research Goals
@@ -38,7 +37,6 @@ My PhD research tries to interpret basic human intelligence from the perspective
 
 This perspective drives my broad interests in meta-learning, continual learning, generative models, algorithmic fairness, Bayesian optimization, and reinforcement learning. I explore these areas from both theoretical and algorithmic standpoints, with a strong desire to apply them to high-impact domains such as scientific discovery.
 
-Feel free to email me for potential collaborations or discussions. 
 
 
 
@@ -48,6 +46,7 @@ Feel free to email me for potential collaborations or discussions.
 ## News
 <div style="display:flex; flex-direction:row; justify-content: space-between; align-items: flex-start;">
   <div align='left' markdown="1">
+  - [11/25] Appointed as Action Editor of TMLR.
   - [01/25] One paper accepted to ICLR 2025, see you in Singapore. 
   - [05/24] One paper was accepted to ICML2024.
   - [01/24] I passed my thesis defense.

@@ -5,12 +5,20 @@ title: ""
 ---
 
 <span></span>
+---
+
 # List of Publications
 
 Selected publications are <span style="text-decoration: underline">underlined.</span>
- 
+
+* Under Submission
+    - <span style="text-decoration: underline"> **Qi Chen**, Fabio Ramos, Alan Aspuru-Guzik, Florian Shkurti.  [[Informing Acquisition Functions via Foundation Models for Molecular Discovery, 2025.](https://arxiv.org/pdf/2512.13935)] </span>
+
+    - <span style="text-decoration: underline"> Gezheng Xu, **Qi Chen**, Qiuhao Zeng, Charles Ling, Boyu Wang. Histogram-Guided Source-Free Domain Adaptive Regression, 2025. </span>
+    
+ ---
  * Thesis (Excellent, placed on Honor List)
-   - **Qi Chen**. [["Theoretical framework for prior knowledge transfer in deep learning", 2024.](https://corpus.ulaval.ca/server/api/core/bitstreams/701625ab-10af-4c2e-a306-cf4e280f7840/content)][[slides](http://livreq.github.io/images/profile/PhD_Thesis_defense.pdf)]
+    - **Qi Chen**. [["Theoretical framework for prior knowledge transfer in deep learning", 2024.](https://corpus.ulaval.ca/server/api/core/bitstreams/701625ab-10af-4c2e-a306-cf4e280f7840/content)][[slides](http://livreq.github.io/images/profile/PhD_Thesis_defense.pdf)]
 
  * Meta Learning, Continual Learning
     - <span style="text-decoration: underline"> **Qi Chen**, Changjian Shui, Ligong Han, and Mario Marchand. On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm. NeurIPS 2023.[[Open Reivew](https://openreview.net/forum?id=DNHGKeOhLl)] [[Paper](https://openreview.net/pdf?id=DNHGKeOhLl)] [[Code](https://github.com/livreQ/DynamicCML)]</span>
@@ -20,8 +28,8 @@ Selected publications are <span style="text-decoration: underline">underlined.</
     - <span style="text-decoration: underline">**Qi Chen**, Jerry Zhu, Florian Shkurti. Generalization in VAE and Diffusion Models: A Unified Information-Theoretic Analysis. ICLR 2025.[[Open Review](https://openreview.net/forum?id=NGB6YNnO5o)] [[Paper](https://openreview.net/pdf?id=NGB6YNnO5o)] [[Code](https://github.com/livreQ/InfoGenAnalysis)]</span>
     - Ligong Han, Song Wen, **Qi Chen**, Zhixing Zhang, Kunpeng Song, Mengwei Ren, et al. Proxedit: Improving tuning-free real image editing with proximal guidance. WACV 2024.
 
+  
  * Domain Adaptation
-    - <span style="text-decoration: underline"> Gezheng Xu, **Qi Chen**, Qiuhao Zeng, Charles Ling, Boyu Wang. Histogram-Guided Source-Free Domain Adaptive Regression (Under Submission). </span>
     - <span style="text-decoration: underline">**Qi Chen**, and Mario Marchand. Algorithm-Dependent Bounds for Representation Learning of Multi-Source Domain Adaptation. AISTATS 2023.[[Paper](https://proceedings.mlr.press/v206/chen23h/chen23h.pdf)] [[Code](https://github.com/livreQ/IMDA)]</span>
     - Changjian Shui, **Qi Chen**, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. A novel domain adaptation theory with Jensen–Shannon divergence. Knowledge-Based Systems, 2022.[[Paper](https://openreview.net/pdf?id=ilDfZG2BVDh)]
     - Changjian Shui, **Qi Chen**, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. Beyond H-divergence: Domain Adaptation Theory with Jensen-Shannon Divergence. 2020. [[paper](https://arxiv.org/pdf/2007.15567.pdf)]
