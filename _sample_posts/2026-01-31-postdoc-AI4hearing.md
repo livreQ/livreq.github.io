@@ -10,7 +10,7 @@ Apply through [this website](https://www.softsimu.net/openings.html).
 Duration: 2 years (negotiable)
 Location: Aalto University Helsinki, ELLIS Institute Finland, Kuopio University Hospital (PS-HVA) & University of Eastern Finland (UEF), Kuopio, Finland
 Team:
- - Prof Aarno Dietz, Kuopio University Hospital (KUH) - Kuopion yliopistollinen sairaala (KYS) (PS-HVA) & University of Eastern Finland; clinical side
+ - Prof. Aarno Dietz, Kuopio University Hospital (KUH) - Kuopion yliopistollinen sairaala (KYS) (PS-HVA) & University of Eastern Finland; clinical side
  - Prof. Mikko Karttunen, ELLIS Institute Finland & University of Eastern Finland, Kuopio; AI/ML
  - Prof. Qi Chen, ELLIS Institute Finland & Aalto University, Helsinki; AI/ML
 
