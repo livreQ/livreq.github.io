@@ -4,12 +4,13 @@ title: ""
 categories: Recruitment 
 ---
 
+<span></span>
 
-# Postdoctoral Position in Artificial Intelligence for Digital Hearing Health
+#### Postdoctoral Position in Artificial Intelligence for Digital Hearing Health
 
 ---
 
-## 🎓 Position Overview
+##### 🎓 Position Overview
 
 We are seeking a talented postdoctoral researcher to join our multidisciplinary team working at the intersection of artificial intelligence, machine learning, and digital hearing health. This is an exciting opportunity to contribute to cutting-edge research with real-world clinical applications.
 
@@ -27,7 +28,7 @@ We are seeking a talented postdoctoral researcher to join our multidisciplinary 
 
 ---
 
-## 👥 Research Team
+##### 👥 Research Team
 
 You will be working with a distinguished team of experts:
 
@@ -45,7 +46,7 @@ You will be working with a distinguished team of experts:
 
 ---
 
-## 🎯 Required Qualifications
+##### 🎯 Required Qualifications
 
 We are looking for candidates with:
 
@@ -64,7 +65,7 @@ We are looking for candidates with:
 
 ---
 
-## 📝 How to Apply
+##### 📝 How to Apply
 
 - Provide contact information for 2-3 references
 - send your CV with publication list, and letter of motivation as a single PDF file to all of us:
@@ -74,7 +75,7 @@ We are looking for candidates with:
 
 ---
 
-## ℹ️ Additional Information
+##### ℹ️ Additional Information
 
 This position offers a unique opportunity to work in a collaborative environment spanning multiple prestigious institutions across Finland, combining clinical insights with advanced AI/ML research to make meaningful contributions to digital hearing health.
 
