@@ -5,7 +5,7 @@ categories: Recruitment
 ---
 
 
-<span style="color:red">[HIRE!]</span> #### Postdoctoral Position in Artificial Intelligence for Digital Hearing Health
+#### <span style="color:red">[HIRE!]</span>Postdoctoral Position in Artificial Intelligence for Digital Hearing Health
 
 ---
 
@@ -49,18 +49,18 @@ You will be working with a distinguished team of experts:
 
 We are looking for candidates with:
 
-- **Technical Expertise:** Familiarity with Bayesian methods including:
+- Familiarity with Bayesian methods including:
   - Gaussian Processes
   - Neural Processes
   - Prior-data Fitted Networks
 
-- **Programming Skills:** Demonstrated strong programming abilities
+- Demonstrated strong programming abilities
 
-- **Analytical Thinking:** Strong analytical and problem-solving skills
+- Strong analytical and problem-solving skills
 
-- **Collaboration:** Ability to work both independently and within a larger multidisciplinary team
+- Ability to work both independently and within a larger multidisciplinary team
 
-- **Communication:** Excellent scientific communication and writing skills in English
+- Excellent scientific communication and writing skills in English
 
 ---
 
@@ -68,7 +68,9 @@ We are looking for candidates with:
 
 - Provide contact information for 2-3 references
 - send your CV with publication list, and letter of motivation as a single PDF file to all of us:
-  aarno.dietz [at] uef.fi , mikko.karttunen1 [at] uef.fi and qi.chen.inf [at] aalto.fi
+  - aarno.dietz [at] uef.fi 
+  - mikko.karttunen1 [at] uef.fi 
+  - qi.chen.inf [at] aalto.fi
 
 **Application Deadline:** Open until filled (applications reviewed on a rolling basis)
 
