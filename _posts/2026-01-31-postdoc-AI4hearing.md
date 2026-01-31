@@ -4,9 +4,8 @@ title: ""
 categories: Recruitment 
 ---
 
-<span></span>
 
-#### Postdoctoral Position in Artificial Intelligence for Digital Hearing Health
+<span style="color:red">[HIRE!]</span> #### Postdoctoral Position in Artificial Intelligence for Digital Hearing Health
 
 ---
 
