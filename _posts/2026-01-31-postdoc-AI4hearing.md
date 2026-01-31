@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""
-categories: Miscellaneous
+categories: Recruitment 
 ---
 
 Postdoctoral Researcher in Artificial Intelligence for Digital Hearing Health
