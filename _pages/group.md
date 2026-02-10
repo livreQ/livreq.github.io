@@ -20,5 +20,8 @@ M.Sc. Université Paris-Saclay -> Ph.D. in Applied Math, Ecole Polytechnique -> 
 [**Doudou Zhang (Starting June 2026)**](https://zhangdoudou.github.io/): 
 B.Eng. Wuhan University -> M.Phil. HKUST(Guangzhou) -> Aalto CS
 
+### Master Thesis Supervision
+
+**Joona Sorjonen** Master Student at Aalto
 
 
