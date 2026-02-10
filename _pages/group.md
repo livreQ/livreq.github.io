@@ -12,10 +12,11 @@ title: ""
 
 ### PhD Students
 [**Wenwen Hou (Starting March 2026)**](https://sites.google.com/view/wenwen-hou): 
-B.Eng. Xi’an Jiaotong University -> M.Sc. CUHK -> M.Phil. HKUST(Guangzhou) -> Aalto
-
+B.Eng. Xi’an Jiaotong University -> M.Sc. CUHK -> M.Phil. HKUST(Guangzhou) -> CS PhD student Aalto
+[**Raman Sheshka (Starting April 2026)**]():
+M.Sc Université Paris-Saclay -> Ph.D. in Applied Math, Ecole Polytechnique -> CS PhD student Aalto
 [**Doudou Zhang (Starting June 2026)**](https://zhangdoudou.github.io/): 
-B.Eng. Wuhan University -> M.Phil. HKUST(Guangzhou) -> Aalto
+B.Eng. Wuhan University -> M.Phil. HKUST(Guangzhou) -> CS PhD student Aalto
 
 
 
