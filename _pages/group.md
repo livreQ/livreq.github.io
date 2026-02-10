@@ -22,6 +22,6 @@ B.Eng. Wuhan University -> M.Phil. HKUST(Guangzhou) -> Aalto CS
 
 ### Master Thesis Supervision
 
-**Joona Sorjonen** Master Student at Aalto
+**Joona Sorjonen:** Master Student at Aalto
 
 
