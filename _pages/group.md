@@ -24,6 +24,7 @@ B.Eng. Wuhan University -> M.Phil. HKUST(Guangzhou) -> Aalto CS
 ### Master Thesis Supervision
 
 **Joona Sorjonen:** Master Student at Aalto
+
 **Arvi Jussila:** Master student at Aalto, thesis with GE Healthcare and funded by Technology Industries of Finland.
 
 
