@@ -5,9 +5,11 @@ categories: Recruitment
 ---
 
 
-#### <span style="color:red">[HIRE!]</span>Postdoctoral Position in Artificial Intelligence for Digital Hearing Health
+#### <span style="color:red">[HIRE!]</span> Postdoctoral Position in Artificial Intelligence for Digital Hearing Health 
 
 ---
+
+#### <span style="color:red"> The work will be carried out primarily at Kuopio University Hospital. I am responsible for this project. The possibility of receiving an affiliation from Aalto depends on the mode and outcome of our collaboration. </span>
 
 ##### 🎓 Position Overview
 
