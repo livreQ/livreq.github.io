@@ -27,7 +27,8 @@ permalink: /
 Hi, welcome! I’m currently a Principal Investigator at the [ELLIS Institute Finland](https://www.ellisinstitute.fi/) and a Tenure-track Assistant Professor in the Department of Computer Science at [Aalto University](https://research.aalto.fi/en/organisations/professorship-chen-qi). I am also a member of ELLIS. Before this, I was a postdoctoral fellow at the Data Science Institute (DSI) and [Robot Vision & Learning Lab](https://rvl.cs.toronto.edu/) at the University of Toronto, supported by the [DSI Postdoc Fellowship](https://datasciences.utoronto.ca/postdoctoral-fellows/) and advised by Prof. [Florian Shkurti](https://www.cs.toronto.edu/~florian/). Additionally, I serve as a Faculty Affiliate Researcher at the [Vector Institute](https://vectorinstitute.ai/). I got my Ph.D. (dissertation with honor) from Laval University in Mar. 2024, where I was supervised by Prof. [Mario Marchand](https://scholar.google.ca/citations?user=M792u2sAAAAJ&hl=en). Prior to this, I was a senior algorithm engineer at Baidu and Bytedance. I obtained my master of science in engineering (diplôme d'ingénière) at [Institut Polytechnique de Paris - Telecom Paris](https://www.telecom-paris.fr/en/home) and my bachelor's from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung_Wu_College), [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) in China.
 
 ## Recruiting 
-We currently have postdoctoral positions available through [HIIT](https://www.hiit.fi/hiit-postdoctoral-fellow-positions-in-computer-science).
+We currently have postdoctoral positions available through [HIIT](https://www.hiit.fi/hiit-postdoctoral-fellow-positions-in-computer-science). Applicants with a strong background in machine learning are encouraged to apply via this call.
+Another postdoctoral position offering an interdisciplinary collaboration opportunity can be found [here](https://livreq.github.io/postdoc-AI4hearing/). 
 
 
 ## Research Goals
