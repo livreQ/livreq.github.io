@@ -9,7 +9,7 @@ categories: Recruitment
 
 ---
 
-#### <span style="color:red"> The work will be carried out primarily at Kuopio University Hospital. Prof. Aarno Dietz is in charge of this project. </span>
+#### <span style="color:red"> The work will be carried out primarily at Kuopio University Hospital. Prof. Aarno Dietz is in charge of this project. The use of affiliation from Aalto depends on my contribution to this project. </span>
 
 ##### 🎓 Position Overview
 
