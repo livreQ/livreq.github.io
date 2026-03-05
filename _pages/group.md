@@ -15,7 +15,7 @@ title: ""
 [**Dr. Raman Sheshka (Starting April 2026)**](https://github.com/Raman-Sheshka):
 M.Sc. Université Paris-Saclay -> Ph.D. in Applied Math, Ecole Polytechnique -> Aalto CS
 
-[**Wenwen Hou (Starting March 2026)**](https://sites.google.com/view/wenwen-hou): 
+[**Wenwen Hou**](https://sites.google.com/view/wenwen-hou): 
 B.Eng. Xi’an Jiaotong University -> M.Sc. CUHK -> M.Phil. HKUST(Guangzhou) -> Aalto CS
 
 [**Doudou Zhang (Starting June 2026)**](https://zhangdoudou.github.io/): 
