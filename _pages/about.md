@@ -49,8 +49,10 @@ This perspective drives my broad interests in meta-learning, continual learning,
 ## News
 <div style="display:flex; flex-direction:row; justify-content: space-between; align-items: flex-start;">
   <div align='left' markdown="1">
+  - [03/26] I gave a remote talk at CSML seminar of Lancaster University. Thanks for the invitation!
   - [02/26] Thanks to the Gemini Academic Program Award for supporting our research.
   - [11/25] Appointed as Action Editor of TMLR.
+  - [11/25] I gave a talk at the [ELLIS Institute Finland Scientific Seminar](https://www.ellisinstitute.fi/ellis-institute-finland-launch-and-the-ai-summit#1-ellis-institute-finland-scientific-seminar-on-november-18--2025-at-aalto-university--espoo).
   - [01/25] One paper accepted to ICLR 2025, see you in Singapore. 
   - [05/24] One paper was accepted to ICML2024.
   - [01/24] I passed my thesis defense.
