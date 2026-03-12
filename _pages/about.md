@@ -55,8 +55,6 @@ This perspective drives my broad interests in meta-learning, continual learning,
   - [11/25] I gave a talk at the [ELLIS Institute Finland Scientific Seminar](https://www.ellisinstitute.fi/ellis-institute-finland-launch-and-the-ai-summit#1-ellis-institute-finland-scientific-seminar-on-november-18--2025-at-aalto-university--espoo).
   - [01/25] One paper accepted to ICLR 2025, see you in Singapore. 
   - [05/24] One paper was accepted to ICML2024.
-  - [01/24] I passed my thesis defense.
-  - [09/23] One paper was accepted to NeurIPS2023.
   </div>
   <div align='right'>
    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI&cl=ffffff&w=200"></script>
