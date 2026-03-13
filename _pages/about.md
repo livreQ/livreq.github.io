@@ -29,7 +29,6 @@ Hi, welcome! I’m currently a Principal Investigator at the [ELLIS Institute Fi
 ## Recruiting 
 We currently have postdoctoral positions for candidates with strong background in machine learning through [HIIT](https://www.hiit.fi/hiit-postdoctoral-fellow-positions-in-computer-science). 
 
-An additional postdoctoral position focused on interdisciplinary collaboration is available [here](https://livreq.github.io/postdoc-AI4hearing/).
 
 
 ## Research Goals
