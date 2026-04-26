@@ -12,7 +12,7 @@ title: ""
 
 ### PhD Students
 
-[**Dr. Raman Sheshka**](https://github.com/Raman-Sheshka):
+[**Raman Sheshka**](https://github.com/Raman-Sheshka):
 M.Sc. Université Paris-Saclay -> Ph.D. in Applied Math, Ecole Polytechnique -> Aalto CS
 
 [**Wenwen Hou**](https://sites.google.com/view/wenwen-hou): 
