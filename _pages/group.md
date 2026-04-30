@@ -12,8 +12,6 @@ title: ""
 
 ### PhD Students
 
-[**Raman Sheshka**](https://github.com/Raman-Sheshka):
-M.Sc. Université Paris-Saclay -> Ph.D. in Applied Math, Ecole Polytechnique -> Aalto CS
 
 [**Wenwen Hou**](https://sites.google.com/view/wenwen-hou): 
 B.Eng. Xi’an Jiaotong University -> M.Sc. CUHK -> M.Phil. HKUST(Guangzhou) -> Aalto CS
