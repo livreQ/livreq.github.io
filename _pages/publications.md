@@ -20,7 +20,7 @@ Selected publications are <span style="text-decoration: underline">underlined.</
 
  * Meta Learning, Continual Learning
     - <span style="text-decoration: underline"> **Qi Chen**, Changjian Shui, Ligong Han, and Mario Marchand. On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm. NeurIPS 2023.[[Open Reivew](https://openreview.net/forum?id=DNHGKeOhLl)] [[Paper](https://openreview.net/pdf?id=DNHGKeOhLl)] [[Code](https://github.com/livreQ/DynamicCML)]</span>
-    - <span style="text-decoration: underline">**Qi Chen**, Changjian Shui, Mario Marchand. Generalization Bounds for Meta-Learning: An Information-Theoretic Analysis. NeurIPS 2021. <font color=red>(Spotlight, 2.2% of submissions)</font> [[Open Review](https://openreview.net/forum?id=9J2wV5E1Aq_)][[Paper](https://arxiv.org/pdf/2109.14595)] [[Code](https://github.com/livreQ/meta-sgld)] </span>
+    - <span style="text-decoration: underline">**Qi Chen**, Changjian Shui, Mario Marchand. Generalization Bounds for Meta-Learning: An Information-Theoretic Analysis. NeurIPS 2021. <font color=red>(Spotlight, 3% of submissions)</font> [[Open Review](https://openreview.net/forum?id=9J2wV5E1Aq_)][[Paper](https://arxiv.org/pdf/2109.14595)] [[Code](https://github.com/livreQ/meta-sgld)] </span>
 
  * Generative Models
     - <span style="text-decoration: underline">**Qi Chen**, Jerry Zhu, Florian Shkurti. Generalization in VAE and Diffusion Models: A Unified Information-Theoretic Analysis. ICLR 2025.[[Open Review](https://openreview.net/forum?id=NGB6YNnO5o)] [[Paper](https://openreview.net/pdf?id=NGB6YNnO5o)] [[Code](https://github.com/livreQ/InfoGenAnalysis)]</span>
@@ -28,7 +28,7 @@ Selected publications are <span style="text-decoration: underline">underlined.</
 
   
  * Domain Adaptation
-    - <span style="text-decoration: underline"> Gezheng Xu, **Qi Chen**, Qiuhao Zeng, Charles Ling, Boyu Wang. Discretized Density-Guided Source-Free Adaptation for Continuous Targets. ICML 2026.<font color=red>(Spotlight, 3% of submissions) </span>
+    - <span style="text-decoration: underline"> Gezheng Xu, **Qi Chen**, Qiuhao Zeng, Charles Ling, Boyu Wang. Discretized Density-Guided Source-Free Adaptation for Continuous Targets. ICML 2026.<font color=red>(Spotlight, 2.2% of submissions) </span>
     - <span style="text-decoration: underline">**Qi Chen**, and Mario Marchand. Algorithm-Dependent Bounds for Representation Learning of Multi-Source Domain Adaptation. AISTATS 2023.[[Paper](https://proceedings.mlr.press/v206/chen23h/chen23h.pdf)] [[Code](https://github.com/livreQ/IMDA)]</span>
     - Changjian Shui, **Qi Chen**, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. A novel domain adaptation theory with Jensen–Shannon divergence. Knowledge-Based Systems, 2022.[[Paper](https://openreview.net/pdf?id=ilDfZG2BVDh)]
     - Changjian Shui, **Qi Chen**, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. Beyond H-divergence: Domain Adaptation Theory with Jensen-Shannon Divergence. 2020. [[paper](https://arxiv.org/pdf/2007.15567.pdf)]
