@@ -48,6 +48,7 @@ This perspective drives my broad interests in meta-learning, continual learning,
 ## News
 <div style="display:flex; flex-direction:row; justify-content: space-between; align-items: flex-start;">
   <div align='left' markdown="1">
+  - [05/26] One paper accepted to ICML 2026, see you in Seoul.  
   - [03/26] I gave a remote talk at CSML seminar of Lancaster University. Thanks for the invitation!
   - [02/26] Thanks to the Gemini Academic Program Award for supporting our research.
   - [11/25] Appointed as Action Editor of TMLR.
