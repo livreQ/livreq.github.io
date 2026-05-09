@@ -13,7 +13,7 @@ Selected publications are <span style="text-decoration: underline">underlined.</
 
 * Under Submission
     - <span style="text-decoration: underline"> **Qi Chen**, Fabio Ramos, Alan Aspuru-Guzik, Florian Shkurti.  [[Informing Acquisition Functions via Foundation Models for Molecular Discovery, 2025.](https://arxiv.org/pdf/2512.13935)] </span>
-    
+     - <span style="text-decoration: underline"> Doudou Zhang, Qi Chen. Constrained Look-ahead Guidance for Interference-Aware Flow Editing. </span>
  ---
  * Thesis (Excellent, placed on Honor List)
     - **Qi Chen**. [["Theoretical framework for prior knowledge transfer in deep learning", 2024.](https://corpus.ulaval.ca/server/api/core/bitstreams/701625ab-10af-4c2e-a306-cf4e280f7840/content)][[slides](http://livreq.github.io/images/profile/PhD_Thesis_defense.pdf)]
