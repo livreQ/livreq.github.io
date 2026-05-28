@@ -49,7 +49,6 @@ This perspective drives my broad interests in meta-learning, continual learning,
 <div style="display:flex; flex-direction:row; justify-content: space-between; align-items: flex-start;">
   <div align='left' markdown="1">
   - [05/26] I gave a talk at the Research Forum of the Centre for AI Fundamentals at the University of Manchester. Thanks for the invitation!
-
   - [05/26] One paper accepted to ICML 2026, see you in Seoul.  
   - [03/26] I gave a remote talk at CSML seminar of Lancaster University. Thanks for the invitation!
   - [02/26] Thanks to the Gemini Academic Program Award for supporting our research.
