@@ -8,6 +8,8 @@ title: ""
 ### Research Activities
     
  * Invited Talks
+    - Research Forum of the Centre for AI Fundamentals at the University of Manchester. "Prior Knowledge Transfer for
+Data-Efficient and Adaptive Machine Learning", May. 2026
     - [[Lancaster University CSML Seminar]](https://lu-csml.github.io/),"Theoretical understanding of generalization and memorization in generative models", [slides](http://livreq.github.io/images/profile/Talk_Lancaster.pdf), Mar. 2026
     - [[ELLIS Institute Finland Scientific Seminar Talk](https://www.ellisinstitute.fi/ellis-institute-finland-launch-and-the-ai-summit)], "Generalize to Discover", Helsinki, Nov. 2025
     - Vector Institute Research Day Highlight Talk, "Towards understanding evolving patterns in sequential data", Toronto, Nov. 2024
