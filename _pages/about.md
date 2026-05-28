@@ -48,13 +48,13 @@ This perspective drives my broad interests in meta-learning, continual learning,
 ## News
 <div style="display:flex; flex-direction:row; justify-content: space-between; align-items: flex-start;">
   <div align='left' markdown="1">
+  - [05/26] I gave a talk at the Research Forum of the Centre for AI Fundamentals at the University of Manchester. Thanks for the invitation!
+
   - [05/26] One paper accepted to ICML 2026, see you in Seoul.  
   - [03/26] I gave a remote talk at CSML seminar of Lancaster University. Thanks for the invitation!
   - [02/26] Thanks to the Gemini Academic Program Award for supporting our research.
   - [11/25] Appointed as Action Editor of TMLR.
   - [11/25] I gave a talk at the [ELLIS Institute Finland Scientific Seminar](https://www.ellisinstitute.fi/ellis-institute-finland-launch-and-the-ai-summit#1-ellis-institute-finland-scientific-seminar-on-november-18--2025-at-aalto-university--espoo).
-  - [01/25] One paper accepted to ICLR 2025, see you in Singapore. 
-  - [05/24] One paper was accepted to ICML2024.
   </div>
   <div align='right'>
    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI&cl=ffffff&w=200"></script>
