@@ -8,7 +8,7 @@ title: ""
 ## People
 
 ### Postdocs
-[**Dr. Braghadeesh Lakshminarayanan**](https://braghadeeshln.github.io/)
+[**Dr. Braghadeesh Lakshminarayanan:**](https://braghadeeshln.github.io/)
 Incoming ELLIS Postdoc, Ph.D. from KTH, co-supervised with [Prof. Dominik Baumann](https://baumanndominik.github.io/).
 
 ### PhD Students
@@ -25,11 +25,11 @@ Incoming ELLIS Ph.D. Student (Interdisciplinary Track)
 B.Sc. China Pharmaceutical University -> M.Sc. ShanghaiTech University -> Aalto CS
 
 ### Summer Interns
-[**Alireza Daeijavad**](https://scholar.google.com/citations?user=prrdzrIAAAAJ&hl=en)
+[**Alireza Daeijavad:**](https://scholar.google.com/citations?user=prrdzrIAAAAJ&hl=en)
 Ph.D. candidate from McMaster University. 
 
 ### Visitors
-[**Dr. Safoura Rezapour Lakani**](https://scholar.google.com/citations?user=tLnpwCsAAAAJ&hl=de)
+[**Dr. Safoura Rezapour Lakani:**](https://scholar.google.com/citations?user=tLnpwCsAAAAJ&hl=de)
 Research Scientist from Siemens Austria
 
 ### Master Thesis Supervision
