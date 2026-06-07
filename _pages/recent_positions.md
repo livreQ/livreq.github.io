@@ -30,5 +30,4 @@ Interested applicants should contact me as early as possible with:
 
 Please send enquiries to my email.
 
-More information about the MSCA Postdoctoral Fellowships can be found here:
-https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships
+More information about the MSCA Postdoctoral Fellowships can be found [here](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
