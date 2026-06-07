@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /recent_positions/
+title: ""
+---
+<span></span>
+
 ## Call for MSCA Postdoctoral Fellowship Applicants
 
 I am happy to support strong candidates interested in applying for a **Marie Skłodowska-Curie Actions Postdoctoral Fellowship (MSCA PF)** with my group at **Aalto University / ELLIS Institute Finland**.
