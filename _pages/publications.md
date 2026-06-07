@@ -16,7 +16,8 @@ Selected publications are <span style="text-decoration: underline">underlined.</
 * Under Submission
     - <span style="text-decoration: underline"> **Qi Chen**<sup>*</sup><sup>✉</sup>, Fabio Ramos, Alan Aspuru-Guzik, Florian Shkurti<sup>✉</sup>. [[Informing Acquisition Functions via Foundation Models for Molecular Discovery, 2025.](https://arxiv.org/pdf/2512.13935)] </span>
     - <span style="text-decoration: underline"> Doudou Zhang, **Qi Chen**<sup>✉</sup>. Constrained Look-ahead Guidance for Interference-Aware Flow Editing. </span>
-   
+    - <span style="text-decoration: underline"> Xing Shen, Yifan Qin, Gezheng Xu, **Qi Chen**, Changjian Shui. Position: Dataset Misuse Risk Evaluation Requires Operationalizing the Burden of Proof.</span>
+    
 
 ---
 * Thesis (Excellent, placed on Honor List)
