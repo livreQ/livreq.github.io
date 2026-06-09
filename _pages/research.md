@@ -8,6 +8,7 @@ title: ""
 ### Research Activities
     
  * Invited Talks
+    - Unite! Online Course on Recent Advances and Research Trends in AI: "Learning with Limited Data: Leveraging Prior Knowledge in Modern Machine Learning Systems".
     - Research Forum of the Centre for AI Fundamentals at the University of Manchester. "Prior Knowledge Transfer for
 Data-Efficient and Adaptive Machine Learning", May. 2026
     - [[Lancaster University CSML Seminar]](https://lu-csml.github.io/),"Theoretical understanding of generalization and memorization in generative models", [slides](http://livreq.github.io/images/profile/Talk_Lancaster.pdf), Mar. 2026
