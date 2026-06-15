@@ -9,7 +9,7 @@ title: ""
 
 ### Postdocs
 [**Dr. Braghadeesh Lakshminarayanan:**](https://braghadeeshln.github.io/)
-Incoming ELLIS Postdoc, Ph.D. from KTH, co-supervised with [Prof. Dominik Baumann](https://baumanndominik.github.io/).
+ELLIS Postdoc, Ph.D. from KTH, co-supervised with [Prof. Dominik Baumann](https://baumanndominik.github.io/).
 
 ### PhD Students
 
