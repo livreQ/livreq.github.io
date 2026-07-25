@@ -23,9 +23,8 @@ B.Eng. Xi’an Jiaotong University → M.Sc. CUHK → M.Phil. HKUST(Guangzhou) �
 B.Eng. Wuhan University → M.Phil. HKUST(Guangzhou) → Aalto CS
 
 [**Yilin Chen**]():
-B.Sc., China Pharmaceutical University → M.Sc., ShanghaiTech University → Aalto CS
+ELLIS Interdisciplinary track PhD, B.Sc., China Pharmaceutical University → M.Sc., ShanghaiTech University → Aalto CS
 
-ELLIS Interdisciplinary PhD candidate, co-supervised by Prof. Simon Olsson at Chalmers University of Technology, with local collaboration with Prof. Samuel Kaski.
 
 
 ### Summer Interns
