@@ -22,7 +22,7 @@ B.Eng. Xi’an Jiaotong University → M.Sc. CUHK → M.Phil. HKUST(Guangzhou) �
 [**Doudou Zhang**](https://zhangdoudou.github.io/): 
 B.Eng. Wuhan University → M.Phil. HKUST(Guangzhou) → Aalto CS
 
-[**Yilin Chen**]():
+[**Yilin Chen (Starting in September)**]():
 ELLIS Interdisciplinary track PhD, B.Sc., China Pharmaceutical University → M.Sc., ShanghaiTech University → Aalto CS
 
 
