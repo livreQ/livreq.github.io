@@ -24,6 +24,7 @@ B.Eng. Wuhan University → M.Phil. HKUST(Guangzhou) → Aalto CS
 
 [**Yilin Chen**]():
 B.Sc., China Pharmaceutical University → M.Sc., ShanghaiTech University → Aalto CS
+
 ELLIS Interdisciplinary PhD candidate, co-supervised by Prof. Simon Olsson at Chalmers University of Technology, with local collaboration with Prof. Samuel Kaski.
 
 
