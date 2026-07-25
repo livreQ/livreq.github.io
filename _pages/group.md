@@ -17,13 +17,15 @@ ELLIS Postdoc, Ph.D. from KTH, co-supervised with [Prof. Dominik Baumann](https:
 ### PhD Students
 
 [**Wenwen Hou**](https://sites.google.com/view/wenwen-hou): 
-B.Eng. Xi’an Jiaotong University → M.Sc. CUHK → M.Phil. HKUST(Guangzhou) → Aalto CS
+B.Eng. Xi’an Jiaotong University → M.Sc. CUHK → M.Phil. HKUST(Guangzhou) → Aalto CS (2026.3 -)
 
 [**Doudou Zhang**](https://zhangdoudou.github.io/): 
-B.Eng. Wuhan University → M.Phil. HKUST(Guangzhou) → Aalto CS
+B.Eng. Wuhan University → M.Phil. HKUST(Guangzhou) → Aalto CS (2026.6 -)
 
-[**Yilin Chen (Starting in September)**]():
-ELLIS Interdisciplinary track PhD, B.Sc., China Pharmaceutical University → M.Sc., ShanghaiTech University → Aalto CS
+[**Yilin Chen**]():
+ELLIS Interdisciplinary track PhD
+
+B.Sc., China Pharmaceutical University → M.Sc., ShanghaiTech University → Aalto CS (2026.9 -)
 
 
 
