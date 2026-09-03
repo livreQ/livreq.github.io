@@ -8,11 +8,11 @@ title: ""
 ## People
 
 ### Postdocs
-[**Dr. Weiguo Pian:**](https://weiguopian.github.io/)
+[**Weiguo Pian:**](https://weiguopian.github.io/)
 Ph.D. in AI from The University of Texas at Dallas and Ph.D. in SE from University of Luxembourg.
 
-[**Dr. Braghadeesh Lakshminarayanan:**](https://braghadeeshln.github.io/)
-ELLIS Postdoc, Ph.D. from KTH, co-supervised with [Prof. Dominik Baumann](https://baumanndominik.github.io/).
+[**Braghadeesh Lakshminarayanan:**](https://braghadeeshln.github.io/)
+ELLIS Postdoc, Ph.D. from KTH, co-supervised with [Dominik Baumann](https://baumanndominik.github.io/).
 
 ### PhD Students
 
@@ -22,8 +22,8 @@ B.Eng. Xi’an Jiaotong University → M.Sc. CUHK → M.Phil. HKUST(Guangzhou) �
 [**Doudou Zhang**](https://zhangdoudou.github.io/): 
 B.Eng. Wuhan University → M.Phil. HKUST(Guangzhou) → Aalto CS (2026.6 -)
 
-[**Yilin Chen**]():
-ELLIS Interdisciplinary track PhD
+[**Yilin Chen**](https://yilinchen1205.github.io/):
+ELLIS Interdisciplinary track PhD, co-supervised with [Samuel Kaski](https://kaski-lab.com/) and [Simon Olsson](https://psolsson.github.io/team).
 
 B.Sc., China Pharmaceutical University → M.Sc., ShanghaiTech University → Aalto CS (2026.9 -)
 
