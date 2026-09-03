@@ -8,7 +8,7 @@ title: ""
 ### Research Activities
     
  * Invited Talks
-    - [HealthtechFi Sustainability working group: Responsible AI and trustworthy as part of sustainable health technology.:"Reliable and Generalizable AI Systems"](https://teknologiateollisuus.fi/healthtech/events/1-9-2026-responsible-ai-and-trustworthy-as-part-of-sustainable-health-technology/). [slides](http://livreq.github.io/images/profile/healthtech_finland_talk.pdf), Sep. 2026
+    - [HealthtechFi Sustainability working group: Responsible AI and trustworthy as part of sustainable health technology.:"Reliable and Generalizable AI Systems"](https://teknologiateollisuus.fi/healthtech/events/1-9-2026-responsible-ai-and-trustworthy-as-part-of-sustainable-health-technology/), Sep. 2026
     - Unite! Online Course on Recent Advances and Research Trends in AI: "Learning with Limited Data: Leveraging Prior Knowledge in Modern Machine Learning Systems". Jun. 2026
     - Research Forum of the Centre for AI Fundamentals at the University of Manchester. "Prior Knowledge Transfer for
 Data-Efficient and Adaptive Machine Learning", May 2026
