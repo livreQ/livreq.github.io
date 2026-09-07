@@ -34,7 +34,7 @@ B.Sc., China Pharmaceutical University → M.Sc., ShanghaiTech University → Aa
 Ph.D. candidate from McMaster University. 
 
 ### Research Assistants
-[**Yangrui Zhang:**] B.Sc., University of International Business and Economics. Currently master student at Aalto. 
+[**Yangrui Zhang:**]() B.Sc., University of International Business and Economics. Currently master student at Aalto. 
 
 ### Visitors
 [**Dr. Safoura Rezapour Lakani:**](https://scholar.google.com/citations?user=tLnpwCsAAAAJ&hl=de)
