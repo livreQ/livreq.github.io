@@ -33,6 +33,9 @@ B.Sc., China Pharmaceutical University → M.Sc., ShanghaiTech University → Aa
 [**Alireza Daeijavad:**](https://scholar.google.com/citations?user=prrdzrIAAAAJ&hl=en)
 Ph.D. candidate from McMaster University. 
 
+### Research Assistants
+[**Yangrui Zhang:**] B.Sc., University of International Business and Economics. Currently master student at Aalto. 
+
 ### Visitors
 [**Dr. Safoura Rezapour Lakani:**](https://scholar.google.com/citations?user=tLnpwCsAAAAJ&hl=de)
 Research Scientist from Siemens Austria
