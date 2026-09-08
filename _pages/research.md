@@ -19,9 +19,11 @@ Data-Efficient and Adaptive Machine Learning", May 2026
 
  * Action Editor
     - TMLR
+ * Area Chair
+    - ICLR 2027
  * Conference Reviewer
     - NeurIPS (2022 [Outstanding Reviewer 10%], 2023, 2024, 2025)
-    - ICML (2022, 2023, 2024, 2025, 2026)
+    - ICML (2022, 2023, 2024, 2025, 2026 [Silver Reviewer])
     - AISTATS (2020, 2023, 2024, 2025)
     - ICLR (2024, 2025, 2026)
     - AAAI (2025)
