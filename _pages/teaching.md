@@ -6,7 +6,7 @@ title: ""
 <span></span>
 
 
-## CS-E4715 - Supervised Machine Learning (Winter 2026)
+## CS-E4715 - Supervised Machine Learning (Autumn 2026)
 - Co-teach with Jaakko Hollmen
 * Part I: Theory 
   - Introduction
