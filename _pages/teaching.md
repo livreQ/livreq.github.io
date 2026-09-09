@@ -6,30 +6,28 @@ title: ""
 <span></span>
 
 
-## CS-E4715 - Supervised Machine Learning (Winter 2026, co-teached with Jaakko Hollmen)
+## CS-E4715 - Supervised Machine Learning (Winter 2026)
+- Co-teach with Jaakko Hollmen
+* Part I: Theory 
+  - Introduction
+  - Generalization error analysis & PAC learning
+  - Rademacher Complexity & VC dimension
+  - Model selection
 
-### Part I: Theory 
-* Introduction
-* Generalization error analysis & PAC learning
-* Rademacher Complexity & VC dimension
-* Model selection
+* Part II: Algorithms and models 
+  - Linear models: perceptron, logistic regression
+  - Support vector machines
+  - Kernel methods
+  - Neural networks (MLPs)
+  - Ensemble methods
 
-### Part II: Algorithms and models 
-
-* Linear models: perceptron, logistic regression
-* Support vector machines
-* Kernel methods
-* Neural networks (MLPs)
-* Ensemble methods
-
-### Part III: Additional topics
-
-* Feature learning, selection and sparsity
-* Multi-class classification
-* Preference learning, ranking
+* Part III: Additional topics
+  - Feature learning, selection and sparsity
+  - Multi-class classification
+  - Preference learning, ranking
  
-## CS-E4825 - Probabilistic Machine Learning (Spring 2027, co-teached with Francesco Croce)
-
+## CS-E4825 - Probabilistic Machine Learning (Spring 2027)
+- Co-teach with Francesco Croce
 * Lecture 1: Introduction
 * Lecture 2: Bayesian networks
 * Lecture 3: MV Gaussian, Bayesian linear models
