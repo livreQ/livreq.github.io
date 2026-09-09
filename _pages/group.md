@@ -23,7 +23,7 @@ B.Eng. Xi’an Jiaotong University → M.Sc. CUHK → M.Phil. HKUST(Guangzhou) �
 B.Eng. Wuhan University → M.Phil. HKUST(Guangzhou) → Aalto CS (2026.6 -)
 
 [**Yilin Chen**](https://yilinchen1205.github.io/):
-ELLIS Interdisciplinary track PhD, co-supervised with [Samuel Kaski](https://kaski-lab.com/) and [Simon Olsson](https://psolsson.github.io/team).
+ELLIS PhD, co-supervised with [Samuel Kaski](https://kaski-lab.com/) and [Simon Olsson](https://psolsson.github.io/team).
 
 B.Sc., China Pharmaceutical University → M.Sc., ShanghaiTech University → Aalto CS (2026.9 -)
 
