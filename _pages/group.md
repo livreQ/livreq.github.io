@@ -71,8 +71,6 @@ title: ""
 }
 </style>
 
-## People
-
 ### Postdocs
 
 <div class="people-grid">
@@ -117,37 +115,28 @@ title: ""
 
 </div>
 
-### Summer Interns
+### Interns, Research Assistants & Visitors
 
 <div class="people-grid">
 
   <div class="person">
     <a href="https://scholar.google.com/citations?user=prrdzrIAAAAJ&hl=en"><img class="person-photo" src="{{ site.baseurl }}/images/group/alireza-daeijavad.jpg" alt="Alireza Daeijavad" /></a>
     <a class="person-name" href="https://scholar.google.com/citations?user=prrdzrIAAAAJ&hl=en">Alireza Daeijavad</a>
+    <span class="person-role">Summer Intern</span>
     <span class="person-note">Ph.D. candidate from McMaster University.</span>
   </div>
-
-</div>
-
-### Research Assistants
-
-<div class="people-grid">
 
   <div class="person">
     <div class="person-initials">YZ</div>
     <span class="person-name">Yangrui Zhang</span>
+    <span class="person-role">Research Assistant</span>
     <span class="person-note">B.Sc. University of International Business and Economics → Master student at Aalto.</span>
   </div>
-
-</div>
-
-### Visitors
-
-<div class="people-grid">
 
   <div class="person">
     <a href="https://scholar.google.com/citations?user=tLnpwCsAAAAJ&hl=de"><img class="person-photo" src="{{ site.baseurl }}/images/group/safoura-rezapour-lakani.jpg" alt="Safoura Rezapour Lakani" /></a>
     <a class="person-name" href="https://scholar.google.com/citations?user=tLnpwCsAAAAJ&hl=de">Dr. Safoura Rezapour Lakani</a>
+    <span class="person-role">Visitor</span>
     <span class="person-note">Research Scientist from Siemens Austria.</span>
   </div>
 
