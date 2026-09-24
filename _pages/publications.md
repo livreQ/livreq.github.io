@@ -14,8 +14,6 @@ Selected publications are <span style="text-decoration: underline">underlined.</
 <sup>*</sup> First author &nbsp;&nbsp; <sup>†</sup> Co-first author &nbsp;&nbsp; <sup>✉</sup> Corresponding author
 
 * Under Submission
-    - <span style="text-decoration: underline"> **Qi Chen**<sup>*</sup><sup>✉</sup>, Fabio Ramos, Alan Aspuru-Guzik, Florian Shkurti<sup>✉</sup>. [[Informing Acquisition Functions via Foundation Models for Molecular Discovery, 2025.](https://arxiv.org/pdf/2512.13935)] </span>
-    - <span style="text-decoration: underline"> Doudou Zhang, **Qi Chen**<sup>✉</sup>. Constrained Look-ahead Guidance for Interference-Aware Flow Editing. </span>
     - <span style="text-decoration: underline"> Xing Shen, Yifan Qin, Gezheng Xu, **Qi Chen**, Changjian Shui. Position: Dataset Misuse Risk Evaluation Requires Operationalizing the Burden of Proof.</span>
     
 
@@ -27,10 +25,12 @@ Selected publications are <span style="text-decoration: underline">underlined.</
     - <span style="text-decoration: underline"> **Qi Chen**<sup>*</sup><sup>✉</sup>, Changjian Shui, Ligong Han, and Mario Marchand<sup>✉</sup>. On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm. NeurIPS 2023.[[Open Review](https://openreview.net/forum?id=DNHGKeOhLl)] [[Paper](https://openreview.net/pdf?id=DNHGKeOhLl)] [[Code](https://github.com/livreQ/DynamicCML)]</span>
     - <span style="text-decoration: underline">**Qi Chen**<sup>*</sup><sup>✉</sup>, Changjian Shui, Mario Marchand<sup>✉</sup>. Generalization Bounds for Meta-Learning: An Information-Theoretic Analysis. NeurIPS 2021. <font color=red>(Spotlight, 3% of submissions)</font> [[Open Review](https://openreview.net/forum?id=9J2wV5E1Aq_)][[Paper](https://arxiv.org/pdf/2109.14595)] [[Code](https://github.com/livreQ/meta-sgld)] </span>
 
+* Bayes Optimization, AI4Science
+    - <span style="text-decoration: underline"> **Qi Chen**<sup>*</sup><sup>✉</sup>, Fabio Ramos, Alan Aspuru-Guzik, Florian Shkurti<sup>✉</sup>. [[Informing Acquisition Functions via Foundation Models for Molecular Discovery, 2025.](https://arxiv.org/pdf/2512.13935)] NeurIPS 2026.</span>
 * Generative Models
     - <span style="text-decoration: underline">**Qi Chen**<sup>*</sup><sup>✉</sup>, Jerry Zhu, Florian Shkurti<sup>✉</sup>. Generalization in VAE and Diffusion Models: A Unified Information-Theoretic Analysis. ICLR 2025.[[Open Review](https://openreview.net/forum?id=NGB6YNnO5o)] [[Paper](https://openreview.net/pdf?id=NGB6YNnO5o)] [[Code](https://github.com/livreQ/InfoGenAnalysis)]</span>
+    - <span style="text-decoration: underline"> Doudou Zhang, **Qi Chen**<sup>✉</sup>. Constrained Look-ahead Guidance for Interference-Aware Flow Editing.  NeurIPS 2026. </span>
     - Ligong Han, Song Wen, **Qi Chen**, Zhixing Zhang, Kunpeng Song, Mengwei Ren, et al. Proxedit: Improving tuning-free real image editing with proximal guidance. WACV 2024.
-
 * Domain Adaptation
     - <span style="text-decoration: underline"> Gezheng Xu, **Qi Chen**, Qiuhao Zeng, Charles Ling, Boyu Wang. Discretized Density-Guided Source-Free Adaptation for Continuous Targets. ICML 2026.<font color=red>(Spotlight, 2.2% of submissions) </font> </span>
     - <span style="text-decoration: underline">**Qi Chen**<sup>*</sup>, and Mario Marchand<sup>✉</sup>. Algorithm-Dependent Bounds for Representation Learning of Multi-Source Domain Adaptation. AISTATS 2023.[[Paper](https://proceedings.mlr.press/v206/chen23h/chen23h.pdf)] [[Code](https://github.com/livreQ/IMDA)]</span>
