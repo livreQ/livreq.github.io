@@ -18,7 +18,7 @@ Selected publications are <span style="text-decoration: underline">underlined.</
     - Doudou Zhang, Wenwen Hou, Yilin Chen, **Qi Chen**<sup>✉</sup>. Learning the Geometry of Drifting Models: Persistent Representations for One-Step Generation.
     - Wenwen Hou, Gezheng Xu, Doudou Zhang, Changjian Shui, **Qi Chen**<sup>✉</sup>. RL Does Not Always Forget Less: Understanding Retention through Target Learning in LLM Post-Training. 
     - Yaohong Yang, Gauri Pradhan, **Qi Chen**, Samuel Kaski, Antti Honkela. Shift-Aware Score Transport for Privacy Auditing Without Retraining.
-    - Yifu Luo, Chuang Ma, Zeyu Chen, Enkelejda Kasneci, Qi Chen, Gjergji Kasneci. Every Token Needs Its Own Teacher: Multi-Teacher Adaptive On-Policy Self-Distillation. 
+    - Yifu Luo, Chuang Ma, Zeyu Chen, Enkelejda Kasneci, **Qi Chen**, Gjergji Kasneci. Every Token Needs Its Own Teacher: Multi-Teacher Adaptive On-Policy Self-Distillation. 
     - Xing Shen, Yifan Qin, Gezheng Xu, **Qi Chen**, Changjian Shui. Position: Dataset Misuse Risk Evaluation Requires Operationalizing the Burden of Proof.
     
 
