@@ -61,8 +61,9 @@ This perspective drives my broad interests in meta-learning, continual learning,
   </div>
   <div align='right'>
    <!-- 访问地图: 原来的 ClustrMaps 已停止服务 (clustrmaps.com 解析到 127.0.0.1), 旧 widget ID 在继任服务上已被分配给别人,
-        2026-10 换成新注册的 MapMyVisitors widget (project 2250868)。注意脚本是 map.js, 不是旧的 map_v2.js。 -->
-   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2CdNdThzrfUc0pl1opsxTe1Qs0-zy8BMQ_0vA8Ha-dg&cl=ffffff&w=a"></script>
+        2026-10 换成新注册的 MapMyVisitors widget (project 2250868)。注意脚本是 map.js, 不是旧的 map_v2.js;
+        w 必须给具体像素值, 用 w=a (自适应) 会被这个 flex 右栏压成零宽, 地图不显示。 -->
+   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2CdNdThzrfUc0pl1opsxTe1Qs0-zy8BMQ_0vA8Ha-dg&cl=ffffff&w=260"></script>
   </div>
 </div>
 
