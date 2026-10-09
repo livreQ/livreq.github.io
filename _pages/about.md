@@ -53,9 +53,6 @@ This perspective drives my broad interests in meta-learning, continual learning,
   - [08/26] Invited to serve as an Area Chair for ICLR 2027 main track.
   - [08/26] Happy to be the main organizer of the ELLIS Summer School [AI4Research 2026](https://www.ellisinstitute.fi/ellis-summer-school-2026), now taking place at Aalto University.
   - [05/26] I gave a talk at the University of Manchester. Thanks for the invitation!
-  - [05/26] One paper accepted to ICML 2026, see you in Seoul.  
-  - [03/26] I gave a remote talk at CSML seminar of Lancaster University. Thanks for the invitation!
-  - [02/26] Thanks to the Gemini Academic Program Award for supporting our research.
   </div>
   <div align='right' style="flex:0 0 300px;">
    <!-- 访问地图: 原来的 ClustrMaps 已停止服务 (clustrmaps.com 解析到 127.0.0.1), 旧 widget ID 在继任服务上已被分配给别人,
