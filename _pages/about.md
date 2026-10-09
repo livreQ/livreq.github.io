@@ -60,9 +60,9 @@ This perspective drives my broad interests in meta-learning, continual learning,
   - [11/25] I gave a talk at the [ELLIS Institute Finland Scientific Seminar](https://www.ellisinstitute.fi/ellis-institute-finland-launch-and-the-ai-summit#1-ellis-institute-finland-scientific-seminar-on-november-18--2025-at-aalto-university--espoo).
   </div>
   <div align='right'>
-   <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI&cl=ffffff&w=200"></script> -->
-   <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI'></script> -->
-   <script type='text/javascript' id='clustrmaps' src='//clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=D6e8Q9S1yMWuSM350AZGSE_YbtCDuLFvljzQnF3gbAI'></script>
+   <!-- 访问地图: 原来的 ClustrMaps 已停止服务 (clustrmaps.com 解析到 127.0.0.1), 旧 widget ID 在继任服务上已被分配给别人,
+        2026-10 换成新注册的 MapMyVisitors widget (project 2250868)。注意脚本是 map.js, 不是旧的 map_v2.js。 -->
+   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2CdNdThzrfUc0pl1opsxTe1Qs0-zy8BMQ_0vA8Ha-dg&cl=ffffff&w=a"></script>
   </div>
 </div>
 
