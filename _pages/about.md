@@ -47,8 +47,8 @@ This perspective drives my broad interests in meta-learning, continual learning,
 
 
 ## News
-<div style="display:flex; flex-direction:row; justify-content: space-between; align-items: flex-start;">
-  <div align='left' markdown="1">
+<div style="display:flex; flex-direction:row; flex-wrap:wrap; gap:32px; align-items:flex-start;">
+  <div align='left' markdown="1" style="flex:1 1 420px; min-width:0;">
   - [09/26] Two papers have been accepted to NeurIPS 2026. Congrats to Doudou for his first top ML conference paper!
   - [08/26] Invited to serve as an Area Chair for ICLR 2027 main track.
   - [08/26] Happy to be the main organizer of the ELLIS Summer School [AI4Research 2026](https://www.ellisinstitute.fi/ellis-summer-school-2026), now taking place at Aalto University.
@@ -56,14 +56,12 @@ This perspective drives my broad interests in meta-learning, continual learning,
   - [05/26] One paper accepted to ICML 2026, see you in Seoul.  
   - [03/26] I gave a remote talk at CSML seminar of Lancaster University. Thanks for the invitation!
   - [02/26] Thanks to the Gemini Academic Program Award for supporting our research.
-  - [11/25] Appointed as Action Editor of TMLR.
-  - [11/25] I gave a talk at the [ELLIS Institute Finland Scientific Seminar](https://www.ellisinstitute.fi/ellis-institute-finland-launch-and-the-ai-summit#1-ellis-institute-finland-scientific-seminar-on-november-18--2025-at-aalto-university--espoo).
   </div>
-  <div align='right'>
+  <div align='right' style="flex:0 0 300px;">
    <!-- 访问地图: 原来的 ClustrMaps 已停止服务 (clustrmaps.com 解析到 127.0.0.1), 旧 widget ID 在继任服务上已被分配给别人,
         2026-10 换成新注册的 MapMyVisitors widget (project 2250868)。注意脚本是 map.js, 不是旧的 map_v2.js;
         w 必须给具体像素值, 用 w=a (自适应) 会被这个 flex 右栏压成零宽, 地图不显示。 -->
-   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2CdNdThzrfUc0pl1opsxTe1Qs0-zy8BMQ_0vA8Ha-dg&cl=ffffff&w=260"></script>
+   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2CdNdThzrfUc0pl1opsxTe1Qs0-zy8BMQ_0vA8Ha-dg&cl=ffffff&w=300"></script>
   </div>
 </div>
 
